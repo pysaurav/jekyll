@@ -1,15 +1,13 @@
 ---
-title: Programming Stuffs and Learning
+title: Saurav Pandey
 layout: default
 comments: false
-description: Blog By Shiva Gaire
+description: Data Science Enthusiast, Researcher, Traveller
 ---
 
-Hi, Welcome !
+Welcome to my blog..hajfhjahfjjsfnjsf
 
-## My Latest posts
 
-{% include latest-posts.html %}
 
 ## My most visited posts
 
