@@ -10,7 +10,7 @@ comments: false
   <h1 class="page-heading">Posts</h1>
   
   <ul class="post-list">
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.posts limit: 10 %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -23,5 +23,5 @@ comments: false
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  <p >previous blogspot <a href="http://slarde.blogspot.com/">post</a></p>
+  <p >previous blogspot <a href="http://geeksambhu.blogspot.com/">post</a></p>
 </div>
