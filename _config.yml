@@ -3,4 +3,4 @@ description: Data Science Enthusiast, Researcher, Traveller
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-baseurl:'/jekyll'
+baseurl: "/jekyll"
