@@ -1,11 +1,10 @@
 ---
-title: Saurav Pandey
+title: Thoughts
 layout: default
-comments: false
-description: Data Science Enthusiast, Researcher, Traveller
+description: Some thoughts regarding what is going around.
 ---
 
-This site is just made for viewing purpose.
+Article sections
 
 ## My Latest posts
 

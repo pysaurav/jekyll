@@ -1,11 +1,10 @@
 ---
-title: Saurav Pandey
+title: Articles
 layout: default
-comments: false
-description: Data Science Enthusiast, Researcher, Traveller
+description: Here I post related to programming
 ---
 
-This site is just made for viewing purpose.
+Article sections
 
 ## My Latest posts
 

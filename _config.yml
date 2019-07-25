@@ -1,5 +1,20 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Saurav Pandey 
+description: Data Science Enthusiast, Researcher, Traveller
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+author: Saurav Pandey 
+
+baseurl: ""
+twitter_username: pysaurav
+github_username: pysaurav
+linkedin_username: pysaurav
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-last-modified-at
+
+highlighter: rouge
+paginate: 5
+paginate_path: "/blog/page:num"
