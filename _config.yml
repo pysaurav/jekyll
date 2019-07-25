@@ -11,6 +11,3 @@ github_username: pysaurav
 linkedin_username: pysaurav
 
 
-highlighter: rouge
-paginate: 5
-paginate_path: "/blog/page:num"
