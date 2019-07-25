@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+<h1>{{ "Hello World!" | downcase }}</h1>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pysaurav/jekyll/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
