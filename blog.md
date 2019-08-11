@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programming
-description: This is just another page
+description: My blog posts
 ---
 
 ## My Latest posts
