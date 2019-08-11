@@ -1,8 +1,4 @@
-# frozen_string_literal: true
-
-source 'https://rubygems.org'
-
-gemspec
+source "https://rubygems.org"
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
