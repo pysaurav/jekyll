@@ -28,7 +28,6 @@ group :jekyll_plugins do
    gem "jekyll-admin"
    gem "jekyll-paginate"
    gem 'jekyll-email-protect'
-   gem "github-pages"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
