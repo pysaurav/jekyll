@@ -23,6 +23,7 @@ group :jekyll_plugins do
    gem 'jekyll-sitemap'
    gem "jekyll-theme-cayman"
    gem "rouge"
+   gem "jekyll-gist"
    gem "jekyll-feed", "~> 0.6"
    gem 'jekyll-last-modified-at'
    gem "jekyll-admin"
