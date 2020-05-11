@@ -9,5 +9,6 @@ tags: knn, Machine Learning, Implementation, Scratch, Supervised Learning
 ---
 
 
-
-<script src="https://gist.github.com/pysaurav/be5a3762141f999b4272d724a37d04e0.js"></script>
+{% gist 3e50f856cc7a22af70342bcbb79731fa %}
+.
+<script src="https://gist.github.com/pysaurav/3e50f856cc7a22af70342bcbb79731fa.js"></script>
